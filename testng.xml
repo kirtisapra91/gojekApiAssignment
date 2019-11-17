@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="AP Assignment" verbose=1>
+	<test name="ComparisonOfTwoFiles">
+		<classes>
+			<class name="com.gojek.assgnment.TestClass">
+			</class>
+		</classes>
+	</test>
+</suite>
